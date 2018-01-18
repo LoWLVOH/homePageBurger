@@ -16,10 +16,8 @@ body{
 h1{
 
   font-family: 'Sedgwick Ave Display', cursive;
-  font-size: 80px;
-  border: 1px solid black;
-  color: #011847
-}
-.photo{
-
+  font-size: 60px;
+  /*border: 1px solid black;*/
+  color: #d60018;
+  margin-bottom: 95px;
 }
